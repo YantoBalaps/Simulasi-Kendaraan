@@ -1,0 +1,7 @@
+D:\Coding\23.11.5787\UAS\UAS\bin\Debug\UAS.exe.config
+D:\Coding\23.11.5787\UAS\UAS\bin\Debug\UAS.exe
+D:\Coding\23.11.5787\UAS\UAS\bin\Debug\UAS.pdb
+D:\Coding\23.11.5787\UAS\UAS\obj\Debug\UAS.csproj.AssemblyReference.cache
+D:\Coding\23.11.5787\UAS\UAS\obj\Debug\UAS.csproj.CoreCompileInputs.cache
+D:\Coding\23.11.5787\UAS\UAS\obj\Debug\UAS.exe
+D:\Coding\23.11.5787\UAS\UAS\obj\Debug\UAS.pdb
